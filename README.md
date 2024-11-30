@@ -72,7 +72,7 @@ With **6+ years of experience** in GIS and AI, I’ve helped individuals and org
 
 - 🔭 I’m currently working on [Mapbakes](mapbakes.com)
 
-- 🌱 I’m currently learning **PYTHON CDO WEBGIS**
+- 🌱 I’m currently learning **GEOAI**
 
 - 👯 I’m looking to collaborate on [Spatialox](spatialox.com)
 
@@ -80,9 +80,9 @@ With **6+ years of experience** in GIS and AI, I’ve helped individuals and org
 
 - 👨‍💻 All of my projects are available at [mhwahla.github.io](mhwahla.github.io)
 
-- 📝 I regularly write articles on [dawn.com](dawn.com)
+- 📝 I regularly write articles on [LINKEDIN]([dawn.com](https://www.linkedin.com/in/mhwahla/recent-activity/documents/))
 
-- 💬 Ask me about **PYTHON NCL JS ARCPY**
+- 💬 Ask me about ** ESRI AGOL QGIS GIS PYTHON NCL JS ARCPY**
 
 - 📫 How to reach me **mhwahla360@gmail.com**
 
@@ -92,10 +92,10 @@ With **6+ years of experience** in GIS and AI, I’ve helped individuals and org
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/mhwahla360" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mhwahla360" height="30" width="40" /></a>
+<a href="https://twitter.com/mh_wahla360" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mhwahla360" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/mhwahla" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mhwahla" height="30" width="40" /></a>
-<a href="https://fb.com/muhammad hamza" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="muhammad hamza" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/mhwahla" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="mhwahla" height="30" width="40" /></a>
+<a href="https://fb.com/humzahwahla" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="muhammad hamza" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/@mhwahla" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="mhwahla" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
