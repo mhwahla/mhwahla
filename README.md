@@ -1,6 +1,12 @@
 ![mhwahla](https://github.com/user-attachments/assets/ade0f7d2-174a-4c8d-97dc-fd6ffef0bfce)
 
+<h3 align="center">A passionate GISer from Pakistan</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mhwahla&label=Profile%20views&color=0e75b6&style=flat" alt="mhwahla" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mhwahla" alt="mhwahla" /></a> </p>
+
+<p align="left"> <a href="https://twitter.com/mhwahla360" target="blank"><img src="https://img.shields.io/twitter/follow/mhwahla360?logo=twitter&style=for-the-badge" alt="mhwahla360" /></a> </p>
 
 # 🌍 Muhammad Hamza Wahla (mhwahla) | Geospatial Data Engineer | GIS + AI Innovator
 
@@ -62,13 +68,7 @@ With **6+ years of experience** in GIS and AI, I’ve helped individuals and org
 ---
 
 
-<h3 align="center">A passionate GISer from Pakistan</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mhwahla&label=Profile%20views&color=0e75b6&style=flat" alt="mhwahla" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mhwahla" alt="mhwahla" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/mhwahla360" target="blank"><img src="https://img.shields.io/twitter/follow/mhwahla360?logo=twitter&style=for-the-badge" alt="mhwahla360" /></a> </p>
 
 - 🔭 I’m currently working on [Mapbakes](mapbakes.com)
 
